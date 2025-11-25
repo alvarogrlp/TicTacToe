@@ -35,7 +35,7 @@ python server.py
 ipconfig
 ```
 
-Busca tu `IPv4 Address` (ej: `192.168.1.16`)
+Busca tu `IPv4 Address` (ej: `192.168.1.2`)
 
 ### 4. Actualizar configuración de API
 
