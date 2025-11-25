@@ -1,0 +1,9 @@
+{
+  "name": "tictactoe-server-deprecated",
+  "version": "1.0.0",
+  "description": "DEPRECADO: Usa server.py (Python Flask) en su lugar",
+  "main": "server.js",
+  "scripts": {
+    "start": "echo 'Este servidor Node.js está deprecado. Usa: python server.py'"
+  }
+}
